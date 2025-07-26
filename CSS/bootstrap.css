@@ -1,0 +1,13 @@
+.container-fluid{
+                 background-color: aqua;
+}
+.nav-link{
+    color: white ;
+}
+.dropdown-item{
+    color: aquamarine;
+}
+.navbar{
+    position: fixed;
+    display: flex;
+}
