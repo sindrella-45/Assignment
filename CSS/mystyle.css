@@ -1,5 +1,68 @@
-.h3{
-        width: 200px;
-        height: 200px;
-        border-radius: 50%;
+h2 {
+  margin-bottom: 300px;
+}
+
+table {
+  background-color: azure;
+}
+
+form {
+  width: 500px;
+  margin: auto;
+  padding: 30px;
+  border: 2px solid;
+  border-radius: 30px;
+  background-color: bisque;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-weight: 30px;
+  color: pink;
+}
+
+.grid {
+  background-color: antiquewhite;
+}
+
+.w-full {
+  background-color: cyan;
+}
+
+.min-w-full {
+  background-color: aquamarine;
+}
+
+.card-body {
+  background-color: paleturquoise;
+}
+
+footer {
+  background-color: black;
+  color: white;
+}
+
+.links {
+  background-color: aqua;
+  color: white;
+  position: fixed;
+  padding: 10px;
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin-top: auto;
+}
+
+
+.links a {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.links a:hover {
+  color: navy;
+
 }
